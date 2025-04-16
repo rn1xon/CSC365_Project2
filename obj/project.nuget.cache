@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xz0AeKJIeMk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rileyadmin\\source\\repos\\CSC365\\Project2\\Project2\\CSC365_Project2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rileyadmin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
